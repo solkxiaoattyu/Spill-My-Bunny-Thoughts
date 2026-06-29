@@ -1,0 +1,17 @@
+629 xlsx 语料导入摘要
+========================================
+源文件: 【629待清洗】朋友圈文案爬取系统_数据表_表格.xlsx
+原始帖子数: 291
+切条后总条数: 2919
+保留(待打标): 2152
+剔除: 767
+
+输出文件:
+  629_ready_for_tagging.csv  → 交给 batch_tag.py 打标
+  629_split_review.json  → 全量审核
+  629_rejected.json  → 被剔除条目及原因
+
+下一步:
+  1. 人工抽查 629_ready_for_tagging.csv
+  2. cd 03_数据打标后端 && python batch_tag.py --input ../02_语料与数据/corpus/629_import/629_ready_for_tagging.csv
+  3. 合并进 tagged_corpus.json 后 npm run build:index

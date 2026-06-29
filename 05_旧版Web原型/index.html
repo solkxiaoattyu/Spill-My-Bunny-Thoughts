@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+<head>
+
+  <meta charset="UTF-8" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
+
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+
+  <meta name="theme-color" content="#7FB3D5" />
+
+  <title>朋友圈文案助手</title>
+
+  <link rel="stylesheet" href="css/style.css" />
+
+</head>
+
+<body>
+
+  <div id="app">
+
+    <!-- 欢迎 / 引导页 -->
+
+    <div class="screen screen-welcome" id="screen-welcome">
+
+      <div class="welcome-deco">📝</div>
+
+      <h1 class="welcome-title">朋友圈文案助手</h1>
+
+      <p class="welcome-lead">懂你的每一分情绪</p>
+
+      <p class="welcome-sub">写出你的每一句心声</p>
+
+      <p class="welcome-desc">在这个快节奏的世界里，慢慢来也是一种诚意。</p>
+
+      <button class="btn btn-primary btn-lg" id="btn-start">开始使用</button>
+
+      <p class="welcome-agree">本地演示版 · 无需登录</p>
+
+    </div>
+
+
+
+    <div class="app-shell hidden" id="app-shell">
+
+      <div class="status-bar">
+
+        <span class="status-time">9:41</span>
+
+        <span class="status-icons">●●●</span>
+
+      </div>
+
+
+
+      <header class="page-header" id="page-header">
+
+        <h1 id="page-title">首页</h1>
+
+        <p class="page-sub" id="page-subtitle">根据你的偏好精心挑选</p>
+
+      </header>
+
+
+
+      <main class="main-content">
+
+        <!-- 首页：每日三条 -->
+
+        <section class="panel active" id="panel-home" data-title="首页" data-sub="根据你的偏好精心挑选">
+
+          <div class="hero-banner">
+
+            <div class="hero-text">
+
+              <p class="hero-tag">📝 文案助手</p>
+
+              <h2>你的文案，我来搞定</h2>
+
+              <p>愿你眼里有光，心中有爱</p>
+
+            </div>
+
+          </div>
+
+          <div class="section-head">
+
+            <h3>为你推荐</h3>
+
+            <span class="section-date" id="daily-date"></span>
+
+          </div>
+
+          <div id="daily-list"></div>
+
+          <div class="quick-entry">
+
+            <button class="entry-card" data-goto="quiz">
+
+              <span class="entry-icon">🎲</span>
+
+              <span class="entry-label">答题匹配</span>
+
+              <span class="entry-desc">选你所感，抽你所爱</span>
+
+            </button>
+
+            <button class="entry-card" data-goto="ai">
+
+              <span class="entry-icon">✨</span>
+
+              <span class="entry-label">AI 定制</span>
+
+              <span class="entry-desc">说说想法，智能匹配</span>
+
+            </button>
+
+          </div>
+
+        </section>
+
+
+
+        <!-- 微定制：答题流程 -->
+
+        <section class="panel" id="panel-quiz" data-title="答题匹配" data-sub="提交后将为你生成专属的匹配文案库">
+
+          <div id="quiz-flow">
+
+            <div id="quiz-container"></div>
+
+          </div>
+
+        </section>
+
+
+
+        <!-- AI 定制 -->
+
+        <section class="panel" id="panel-ai" data-title="AI 定制" data-sub="智能理解语境，高概率匹配">
+
+          <div class="api-status" id="api-status">
+
+            <span class="api-status-dot"></span>
+
+            <span class="api-status-text" id="api-status-text">检测 API 状态…</span>
+
+            <button type="button" class="api-status-link" id="api-status-config">去配置</button>
+
+          </div>
+
+          <div class="ai-hero">
+
+            <span>🤔</span>
+
+            <p>描述你想发的朋友圈。配置 DeepSeek API 后由 AI 解析意图；未配置时使用本地标签+文本匹配（准确度较低）。</p>
+
+          </div>
+
+          <details class="ai-settings" id="ai-settings" open>
+
+            <summary>DeepSeek API 设置</summary>
+
+            <label>API Key <span class="label-hint">（必填，仅保存在本机浏览器）</span></label>
+
+            <input type="password" id="api-key" placeholder="sk-..." autocomplete="off" />
+
+            <label>API 地址</label>
+
+            <input type="text" id="api-base" value="https://api.deepseek.com" />
+
+            <label>模型</label>
+
+            <input type="text" id="api-model" value="deepseek-chat" />
+
+            <div class="api-btns">
+
+              <button class="btn btn-ghost" id="save-api">保存</button>
+
+              <button class="btn btn-outline" id="test-api">测试连接</button>
+
+            </div>
+
+          </details>
+
+          <div class="ai-input-wrap">
+
+            <textarea id="ai-input" placeholder="例如：今天加班到很晚，很累但项目终于上线了，想低调庆祝一下"></textarea>
+
+          </div>
+
+          <button class="btn btn-primary btn-block" id="ai-submit">发送</button>
+
+          <div class="ai-intent-preview" id="ai-intent"></div>
+
+          <div class="section-head" id="ai-result-head" style="display:none">
+
+            <h3>为你匹配的文案</h3>
+
+          </div>
+
+          <div id="ai-results"></div>
+
+        </section>
+
+
+
+        <!-- 我的 -->
+
+        <section class="panel" id="panel-profile" data-title="我的主页" data-sub="">
+
+          <div class="profile-card">
+
+            <div class="profile-avatar">🌿</div>
+
+            <div class="profile-info">
+
+              <p class="profile-name">文案爱好者</p>
+
+              <p class="profile-id">ID: 138****8888</p>
+
+            </div>
+
+          </div>
+
+          <div class="profile-tabs">
+
+            <button class="profile-tab active" data-ptab="fav">我的收藏</button>
+
+            <button class="profile-tab" data-ptab="copy">我的复制</button>
+
+          </div>
+
+          <div id="profile-fav"></div>
+
+          <div id="profile-copy" class="hidden"></div>
+
+        </section>
+
+      </main>
+
+
+
+      <nav class="tab-bar">
+
+        <button class="tab-item active" data-tab="home">
+
+          <span class="tab-icon">🏠</span>
+
+          <span>首页</span>
+
+        </button>
+
+        <button class="tab-item" data-tab="quiz">
+
+          <span class="tab-icon">🎲</span>
+
+          <span>答题</span>
+
+        </button>
+
+        <button class="tab-item" data-tab="ai">
+
+          <span class="tab-icon">✨</span>
+
+          <span>AI</span>
+
+        </button>
+
+        <button class="tab-item" data-tab="profile" id="tab-profile">
+
+          <span class="tab-icon">👤</span>
+
+          <span>我的</span>
+
+          <span class="badge" id="fav-badge">0</span>
+
+        </button>
+
+      </nav>
+
+    </div>
+
+
+
+    <!-- 确认提交弹层 -->
+
+    <div class="modal hidden" id="modal-confirm">
+
+      <div class="modal-card">
+
+        <div class="modal-icon">🤔</div>
+
+        <h3>确认提交吗？</h3>
+
+        <p>提交后将为你生成专属的匹配文案库</p>
+
+        <div class="modal-actions">
+
+          <button class="btn btn-outline" id="modal-back">返回修改</button>
+
+          <button class="btn btn-primary" id="modal-ok">确认提交</button>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+    <div class="loading-overlay" id="loading">
+
+      <div class="spinner"></div>
+
+      <span>加载语料库…</span>
+
+    </div>
+
+  </div>
+
+
+
+  <div class="toast" id="toast"></div>
+
+  <script type="module" src="js/app.js"></script>
+
+</body>
+
+</html>
+
+

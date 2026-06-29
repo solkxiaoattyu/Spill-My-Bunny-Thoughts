@@ -1,0 +1,4 @@
+请为以下 {count} 条朋友圈文案打标签。严格按 system 要求输出 JSON 数组，id 必须与输入一致。
+
+输入文案：
+{items_json}

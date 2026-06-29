@@ -1,0 +1,144 @@
+{
+  "version": "v2.0",
+  "dimensions": {
+    "mood": {
+      "max_count": 2,
+      "required": true,
+      "values": [
+        "mood_happy",
+        "mood_peaceful",
+        "mood_healing",
+        "mood_romantic",
+        "mood_literary",
+        "mood_humor",
+        "mood_emo",
+        "mood_reflective",
+        "mood_energetic",
+        "mood_mysterious",
+        "mood_cool",
+        "mood_cool_pose",
+        "mood_nostalgia",
+        "mood_philosophy"
+      ]
+    },
+    "scene": {
+      "max_count": 2,
+      "required": true,
+      "values": [
+        "scene_daily",
+        "scene_travel",
+        "scene_food",
+        "scene_selfie",
+        "scene_pet",
+        "scene_work",
+        "scene_study",
+        "scene_social",
+        "scene_home",
+        "scene_nature",
+        "scene_night",
+        "scene_music",
+        "scene_holiday",
+        "scene_universal",
+        "scene_rainy",
+        "scene_season_spring",
+        "scene_season_autumn_winter",
+        "scene_season_winter"
+      ]
+    },
+    "style": {
+      "max_count": 2,
+      "required": true,
+      "values": [
+        "style_minimal",
+        "style_essay",
+        "style_emoji_heavy",
+        "style_cn_en_mix",
+        "style_pure_cn",
+        "style_symbol_deco",
+        "style_quote",
+        "style_colloquial",
+        "style_abstract",
+        "style_poetic"
+      ]
+    },
+    "purpose": {
+      "max_count": 1,
+      "required": true,
+      "values": [
+        "purpose_share_life",
+        "purpose_show_mood",
+        "purpose_heal_self",
+        "purpose_subtle_love",
+        "purpose_cool_pose",
+        "purpose_humble_brag",
+        "purpose_complain",
+        "purpose_record",
+        "purpose_interact"
+      ]
+    },
+    "theme": {
+      "max_count": 3,
+      "required": false,
+      "values": [
+        "theme_happiness",
+        "theme_love",
+        "theme_friendship",
+        "theme_family",
+        "theme_freedom",
+        "theme_growth",
+        "theme_season_spring",
+        "theme_season_autumn_winter",
+        "theme_rainy",
+        "theme_sunny",
+        "theme_night_mood",
+        "theme_foodie",
+        "theme_pet",
+        "theme_work_life",
+        "theme_travel_wander",
+        "theme_self_love",
+        "theme_nostalgia",
+        "theme_philosophy",
+        "theme_music",
+        "theme_nature",
+        "theme_romantic"
+      ]
+    },
+    "relation": {
+      "max_count": 1,
+      "required": true,
+      "values": [
+        "relation_none",
+        "relation_crush",
+        "relation_couple",
+        "relation_friend",
+        "relation_family",
+        "relation_solo"
+      ]
+    },
+    "tone_level": {
+      "max_count": 1,
+      "required": true,
+      "values": [1, 2, 3, 4, 5]
+    }
+  },
+  "mutual_exclusion": {
+    "mood": [
+      ["mood_humor", "mood_emo"],
+      ["mood_happy", "mood_emo"],
+      ["mood_peaceful", "mood_energetic"],
+      ["mood_mysterious", "mood_happy"]
+    ],
+    "scene": [
+      ["scene_universal", "scene_travel"],
+      ["scene_universal", "scene_food"],
+      ["scene_universal", "scene_work"],
+      ["scene_universal", "scene_study"],
+      ["scene_universal", "scene_social"],
+      ["scene_universal", "scene_holiday"]
+    ],
+    "style": [
+      ["style_minimal", "style_essay"],
+      ["style_pure_cn", "style_cn_en_mix"]
+    ]
+  }
+}

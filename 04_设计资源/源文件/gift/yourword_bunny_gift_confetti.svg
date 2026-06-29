@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="none"/>
+  <g stroke="#111" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+    <!-- confetti -->
+    <g fill="none" stroke-width="10">
+      <path d="M302 218l-42-38" stroke="#ff8caf"/>
+      <path d="M732 226l48-42" stroke="#6aa6ff"/>
+      <path d="M485 143v-68" stroke="#ff8caf"/>
+      <path d="M552 148l28-62" stroke="#6aa6ff"/>
+      <path d="M384 173l-18-58" stroke="#ffd76e"/>
+      <path d="M651 177l20-58" stroke="#ffd76e"/>
+      <path d="M223 331l-70-8" stroke="#6aa6ff"/>
+      <path d="M805 331l70-10" stroke="#ff8caf"/>
+      <path d="M326 110c24 16 36 16 58 0" stroke="#ff8caf"/>
+      <path d="M682 112c-24 16-36 16-58 0" stroke="#6aa6ff"/>
+      <circle cx="240" cy="248" r="13" fill="#ffd76e" stroke="none"/>
+      <circle cx="786" cy="254" r="13" fill="#ffd76e" stroke="none"/>
+      <circle cx="438" cy="93" r="10" fill="#6aa6ff" stroke="none"/>
+      <circle cx="610" cy="94" r="10" fill="#ff8caf" stroke="none"/>
+      <path d="M191 198l28-28 28 28-28 28z" fill="#ff8caf" stroke="none"/>
+      <path d="M826 198l28-28 28 28-28 28z" fill="#6aa6ff" stroke="none"/>
+    </g>
+
+    <!-- bunny ears -->
+    <path d="M421 283c-36-128-10-211 46-219 60-8 77 93 36 210" fill="#fff"/>
+    <path d="M566 277c-8-130 39-211 96-199 60 13 42 124-32 218" fill="#fff"/>
+    <path d="M461 115c8 44 11 76-1 122" stroke="#ff9bb5" stroke-width="14"/>
+    <path d="M632 131c-18 39-31 72-39 118" stroke="#ff9bb5" stroke-width="14"/>
+
+    <!-- body/head -->
+    <path d="M334 348c-4-86 69-155 176-155 112 0 185 70 181 158 72 42 111 120 102 206-13 123-118 211-281 211-166 0-273-88-286-213-9-87 34-165 108-207z" fill="#fff"/>
+
+    <!-- open gift box behind paws -->
+    <path d="M310 560l-72-134 188-54 83 116z" fill="#ff9ab4"/>
+    <path d="M714 560l74-134-190-54-87 116z" fill="#ff9ab4"/>
+    <path d="M426 372l86-90 86 90-86 116z" fill="#7fb2ff"/>
+    <path d="M305 562h414v228H305z" fill="#ff8caf"/>
+    <path d="M492 562h52v228h-52z" fill="#6aa6ff"/>
+    <path d="M305 562l207 74 207-74" fill="none"/>
+
+    <!-- paws holding box -->
+    <path d="M294 610c-50-5-76 29-68 71 8 45 48 69 91 48" fill="#fff"/>
+    <path d="M730 610c50-5 76 29 68 71-8 45-48 69-91 48" fill="#fff"/>
+
+    <!-- feet -->
+    <path d="M318 769c-48 2-85 36-82 78 3 46 49 72 98 58 41-12 62-47 48-87" fill="#fff"/>
+    <path d="M706 769c48 2 85 36 82 78-3 46-49 72-98 58-41-12-62-47-48-87" fill="#fff"/>
+    <path d="M294 843c18 9 40 9 58-1" stroke="#ff8caf" stroke-width="12"/>
+    <path d="M672 843c18 9 40 9 58-1" stroke="#ff8caf" stroke-width="12"/>
+    <circle cx="282" cy="811" r="11" fill="#ff8caf" stroke="none"/>
+    <circle cx="326" cy="806" r="11" fill="#ff8caf" stroke="none"/>
+    <circle cx="698" cy="806" r="11" fill="#ff8caf" stroke="none"/>
+    <circle cx="742" cy="811" r="11" fill="#ff8caf" stroke="none"/>
+
+    <!-- face -->
+    <circle cx="454" cy="356" r="18" fill="#111" stroke="none"/>
+    <circle cx="570" cy="356" r="18" fill="#111" stroke="none"/>
+    <path d="M512 382v16"/>
+    <path d="M486 405c16 24 36 24 52 0" fill="none"/>
+    <path d="M395 392h-42" stroke="#ff8caf" stroke-width="12"/>
+    <path d="M398 426h-35" stroke="#ff8caf" stroke-width="12"/>
+    <path d="M629 392h42" stroke="#ff8caf" stroke-width="12"/>
+    <path d="M626 426h35" stroke="#ff8caf" stroke-width="12"/>
+  </g>
+
+  <!-- extra small hearts -->
+  <g fill="#ff8caf">
+    <path d="M507 171c-21-23-58-2-41 30 11 20 41 37 46 41 5-5 35-22 46-41 17-32-20-53-41-30-3 3-7 3-10 0z"/>
+    <path d="M141 371c-16-18-43-2-31 22 8 15 30 27 34 30 4-3 26-16 34-30 12-24-15-40-31-22-2 2-4 2-6 0z"/>
+    <path d="M874 373c-16-18-43-2-31 22 8 15 30 27 34 30 4-3 26-16 34-30 12-24-15-40-31-22-2 2-4 2-6 0z"/>
+  </g>
+</svg>

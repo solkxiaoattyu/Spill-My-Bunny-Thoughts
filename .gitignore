@@ -1,0 +1,35 @@
+# 依赖
+node_modules/
+
+# 构建产物（由 CI 自动构建部署，不入库）
+dist/
+06_构建产物_dist/
+
+# 废弃 / 旧语料归档
+02_语料与数据/corpus/废弃/
+99_废弃_旧语料/
+
+# 大体积源 xlsx（本地主拷贝，不上传仓库）
+*.xlsx
+
+# 临时脚本与中间产物
+_extracted.json
+_readxlsx.py
+build_new_corpus.py
+_verify_emo.py
+
+# 杂项
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+!.env.example
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 编辑器
+.vscode/
+.idea/

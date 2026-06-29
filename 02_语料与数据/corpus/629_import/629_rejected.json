@@ -1,0 +1,5371 @@
+[
+  {
+    "source_post": 1,
+    "text": "#这是我最喜欢的文案bot",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 2,
+    "text": "自存大学生期末周发疯文案🙃#我爱学习学习爱我",
+    "action": "delete",
+    "reason": "xhs_title",
+    "reason_label": "xhs_title"
+  },
+  {
+    "source_post": 3,
+    "text": "如何呢？明天就考试了还在搜期末周发朋友圈的抽象文案，小女子真是完了......（扶额苦笑）",
+    "action": "delete",
+    "reason": "title",
+    "reason_label": "标题/集合描述"
+  },
+  {
+    "source_post": 4,
+    "text": "🤲🏻",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 4,
+    "text": "#plog",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 4,
+    "text": "#期末周",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 6,
+    "text": "#irasutoya",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 7,
+    "text": "#可爱表情包",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 8,
+    "text": "#蠢呵猫",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 9,
+    "text": "#MEMES",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 10,
+    "text": "#文案",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 11,
+    "text": "#银魂",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 11,
+    "text": "补：图片没办法置顶，大家随意截屏自取！发布平台的话记的标明出处喔",
+    "action": "delete",
+    "reason": "watermark",
+    "reason_label": "水印/搬运声明"
+  },
+  {
+    "source_post": 13,
+    "text": "#考试周",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 15,
+    "text": "#朋友圈分享",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 16,
+    "text": "#日语人的精神状态",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 17,
+    "text": "#期末周 #大学生 #西南财经大学 #朋友圈 #",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 18,
+    "text": "#大学生",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 19,
+    "text": "#搞笑文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 20,
+    "text": "#当代大学生期末现状",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 21,
+    "text": "#医学生期末周精神状态",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 21,
+    "text": "#记录吧就现在",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 21,
+    "text": "#广州中医药大学(大学城校区)[poi_v2]#",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 22,
+    "text": "·",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 22,
+    "text": "#infp",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 22,
+    "text": "#书摘",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 22,
+    "text": "#发疯文学",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 22,
+    "text": "#牛马",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 22,
+    "text": "#疑似失去所有力气",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 22,
+    "text": "#关于我的墓志铭",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 22,
+    "text": "#惊艳到你的句子",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 23,
+    "text": "#负鼠表情包",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 24,
+    "text": "#我的读研日常",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 25,
+    "text": "·",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 25,
+    "text": "#infp精神世界 #vlog #我被文字打动 #以喜欢的方式去生活 #爱在日常稀以为常 #浪漫主义者 #恋爱日记 #爱的具象化 #随笔 #我们的每一刻都不可复制 #airfunk #椰放 #椰放转转香 #虞美人松木 @生活薯 @VLOG薯",
+    "action": "delete",
+    "reason": "xhs_title",
+    "reason_label": "xhs_title"
+  },
+  {
+    "source_post": 26,
+    "text": "#老婆奴",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 27,
+    "text": "咱不搞煽情那套，来点真实、好笑，发出去朋友想给你点10个的朋友圈文案",
+    "action": "delete",
+    "reason": "title",
+    "reason_label": "标题/集合描述"
+  },
+  {
+    "source_post": 27,
+    "text": "自取哦",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 27,
+    "text": "#毕业季",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 28,
+    "text": "#废话王阿姨",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 29,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 29,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 29,
+    "text": "#我的精神自留地",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 30,
+    "text": "#今日文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 32,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 32,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 32,
+    "text": "#浪漫生活的记录者",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 34,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 34,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 34,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 34,
+    "text": "#甜啦啦居然上现磨咖啡了",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 35,
+    "text": ".",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 35,
+    "text": ".",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 35,
+    "text": "#情感",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 36,
+    "text": "#掉毛主理人",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 37,
+    "text": "#浪漫主义者的生活#氛围感家居",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 37,
+    "text": "#家居博主#栖作床垫#床垫",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 37,
+    "text": "#永远被文字打动的我#好好爱自己",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 37,
+    "text": "#家居新趋势#栖作床垫超高利用率的家",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 37,
+    "text": "#榻榻米床垫#日出而作日落而栖",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 38,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 38,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 38,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 38,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 38,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 38,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 38,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 38,
+    "text": "想来的宝子，私信我“饭局”",
+    "action": "delete",
+    "reason": "promo",
+    "reason_label": "互动/导流引导"
+  },
+  {
+    "source_post": 38,
+    "text": "#咩趣星球",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 40,
+    "text": "#趣味文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 41,
+    "text": "#我会被文字打动",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 43,
+    "text": "自存抽象骚扰好友💃文案",
+    "action": "delete",
+    "reason": "xhs_title",
+    "reason_label": "xhs_title"
+  },
+  {
+    "source_post": 43,
+    "text": "#抽象#文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 44,
+    "text": "一些添如乱的抽象文案",
+    "action": "delete",
+    "reason": "xhs_title",
+    "reason_label": "xhs_title"
+  },
+  {
+    "source_post": 44,
+    "text": "思来想去，就让思来去",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 44,
+    "text": "人为什么一定要往高处走呢，人可以往四处走",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 44,
+    "text": "风吹哪页读哪页，哪页不懂撕哪页",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 44,
+    "text": "小事化面包，大事化蛋糕",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 44,
+    "text": "是金子总会被我花光",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 44,
+    "text": "每天吃一堑吃一堑吃一堑吃一堑 谢谢！我吃饱了~",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 44,
+    "text": "人生处处是低谷，我全部好价吃掉",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 44,
+    "text": "那些打倒我的人 谢谢你们 躺着很舒服",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 44,
+    "text": "世界以痛吻我 我没同意啊这不是性骚扰吗",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 44,
+    "text": "生活真是爱恨交织围巾 痛不欲生煎包 悲喜交加煎蛋 心乱如麻婆豆腐 泪如雨下面条 心如止水煮肉片 漏网之鱼香肉丝 一败涂地三鲜啊",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 44,
+    "text": "人生的阴影太多了……嘿嘿嘿 好凉快啊",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 44,
+    "text": "生活千疮百孔，好透气啊",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 44,
+    "text": "生活给了我一拳 我原地睡了一天",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 44,
+    "text": "下雨淋成落汤鸡 好美味",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 44,
+    "text": "已经乱成一锅粥了快趁热喝掉吧",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 44,
+    "text": "生活过得好焦虑 这种焦焦的最好吃了",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 44,
+    "text": "生活没有一点甜头 好减脂",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 45,
+    "text": "#文案",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 45,
+    "text": "话到嘴边又咽了下去 每天以此获得饱腹感",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 46,
+    "text": "#文案#有病的文案#复制粘贴#发癫文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 47,
+    "text": "#搞笑文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 47,
+    "text": "很内向 被打了一顿习惯性说了句谢谢",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 47,
+    "text": "别听反方向的钟 有姐会温暖你的冬",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 47,
+    "text": "最近不知道怎么的 老是觉得自己最近不知道怎么的",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 47,
+    "text": "手机的寿命只有几年 所以放下身边的杂事 多陪陪手机",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 47,
+    "text": "有些人真的太没底线了，连哈哈哈哈哈都要复制，你自己不会笑吗",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 47,
+    "text": "每天醒来都像奥特曼一样，接受新的打击",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 47,
+    "text": "怎么没人找我聊天，都搞集体暗恋是吧",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 47,
+    "text": "姐妹，如果看到我和王宝钏一样深情，别犹豫，扇我，外加一飞腿，谢谢",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 47,
+    "text": "熬夜会让人变丑，但如果本来就丑的话，还是可以继续熬的。",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 47,
+    "text": "头晕晕的感觉缺点维生素RMB",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 47,
+    "text": "焦虑也没这么可怕嘛 焦焦的 脆脆的 像烧烤一样",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 48,
+    "text": "今晚挤好牙膏 明天能多睡三秒",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 48,
+    "text": "朕是一个脆弱的皇帝",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 48,
+    "text": "说爱我 让我听听鬼话",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 48,
+    "text": "养的最成熟的多肉就是自己",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 48,
+    "text": "你能活三万多天 让我玩两天怎么了",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 49,
+    "text": "1",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 49,
+    "text": "2",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 49,
+    "text": "3",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 49,
+    "text": "4",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 49,
+    "text": "5",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 49,
+    "text": "6",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 49,
+    "text": "7",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 49,
+    "text": "8",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 49,
+    "text": "9",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 49,
+    "text": "10",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 49,
+    "text": "#情侣约会﻿ ﻿#暧昧沦陷﻿ ﻿#语录﻿ ﻿#文案语录﻿ ﻿#情感语录文案﻿ ﻿#文案素材﻿ ﻿#情感文案﻿ ﻿#新女性﻿ ﻿#暧昧﻿ ﻿#拾温言",
+    "action": "delete",
+    "reason": "xhs_title",
+    "reason_label": "xhs_title"
+  },
+  {
+    "source_post": 50,
+    "text": "#表情包",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 52,
+    "text": "幸福就像抽象文案 一发就被偷走了．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "原来你说的无条件对我好是无经济条件．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "拼多多不是说我是最幸运的人吗．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "现在跳楼比你们少走七十年弯路．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "在好看和少吃之间 选择了好吃．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "想谈齐12星座目前还差12个．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "只要我吃的够圆就没人敢把我看扁．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "一懒众衫小薪尽自然凉．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "真是方向失了南北美的有点东西．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "妈的看自己就烦 800块出了 完美无瑕",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "拍了拍自己",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "这张脸全是这双手给的．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "人生的意义就是要独自穿过悲喜．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "枫叶落在我头上 秋天给了我一巴掌．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "总以为很慢 可下个冬天也要来了．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "向神许愿 把你变成我的小熊．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "村长 我想做有恒心又有毅力的小羊．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "不是 Hello Kitty 是 Hello Baby.",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "不回消息是吧左勾拳右勾拳．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "已经分手了 他弟提的 因为没送地狱火．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "不想起床 下辈子想当床上四件套．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "去拴Q吧去拴那些不被定义的Q.",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "我问他为什么离开我 他说朵拉爱冒险．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "人民币你好 好久没见了 最近是在忙吗．",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 52,
+    "text": "吾日三省吾身 吾没错",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 53,
+    "text": "#个人成长#观点分享#芝麻信用#芝麻信用分#一个人最好的状态#芝麻粒#芝麻闪购红包#平静#人间清醒#淘宝闪购",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 56,
+    "text": "#抽象文案 #抽象 #抽象艺术 #发疯 #分享 #文案 #",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 57,
+    "text": "#抽象",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 58,
+    "text": "今天啥也没干 辛苦了",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 59,
+    "text": "#文案分享",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 61,
+    "text": "#分享我的考试秘籍",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 61,
+    "text": "全国天气好不好 妹子你们好不好",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 61,
+    "text": "你知道吗 人活着需要呼吸",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 61,
+    "text": "再说爱我 我告你诈骗",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 61,
+    "text": "我问他为什么离开我 他说朵拉爱冒险",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 61,
+    "text": "头晕晕的感觉缺点维生素RMB",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 61,
+    "text": "你的痛苦我都添乱 生怕你解决",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 61,
+    "text": "后来我学会了换位思考 确实我哪都很好",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 61,
+    "text": "我一般下午出现 我怕你早晚爱上我",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 61,
+    "text": "想做你的太阳 不高兴时晒死你",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 61,
+    "text": "别忽冷忽热 我会感冒",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 61,
+    "text": "冷？我开热点给你",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 61,
+    "text": "今天不是Hello Kitty 是Hello Baby",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 61,
+    "text": "你别生气听我狡辩 我给你编",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 61,
+    "text": "想变成章鱼一下子能扇八个人",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 61,
+    "text": "焦虑也没这么可怕嘛 焦焦的 脆脆的 像烧烤一样",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 61,
+    "text": "不想起床 下辈子当床上四件套",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 61,
+    "text": "作息乱乱的 人笨笨的 意志淡淡的",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 61,
+    "text": "大师 七情六欲 怎么光剩下食欲了",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 62,
+    "text": "✅",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 62,
+    "text": "✅",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 62,
+    "text": "✅",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 62,
+    "text": "✅",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 62,
+    "text": "✅",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 62,
+    "text": "✅",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 62,
+    "text": "✅",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 62,
+    "text": "✅",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 62,
+    "text": "#朋友圈文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 63,
+    "text": "头晕晕的 感觉缺点维生素RMB",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 63,
+    "text": "随机抽一个人 不送东西 纯抽",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 63,
+    "text": "好烦这个世界能不能把我删了",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 63,
+    "text": "爱国 诚信 不敬业分情况友善",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 63,
+    "text": "年轻一定要多拍照片 以后老了还能网恋",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 65,
+    "text": "出14号和我过情人节的门票：早鸟888  预售1088  现场1288  vip2288(1v1纪念款合影+签名+握手券)  让我滚6块(推荐）",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 65,
+    "text": "居然情人节这天谈上了！！！对象好温柔好棒，吃醋的样子傲娇的我想亲死，呜呜呜呜好喜欢想一起过一辈子，呜呜呜终于体验到谈恋爱的感觉了！是个富婆，还邀请我下周去缅甸度蜜月",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 65,
+    "text": "你们宁愿当狗 也不来跟我表白 这个血海深仇我先记下了",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 65,
+    "text": "还有几天就情人节了 谁谈 支持前任复合 亲友苟合 暗恋成真  求疼爱 求被爱教程 求被在意教程 求被官宣教程",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 65,
+    "text": "马上情人节了 该吵架吵架 该冷战冷战 该分手分手 不然等到12号13号就有点刻意了 v我99 我帮你演小三 只接异地 不接同城 我怕挨打",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 65,
+    "text": "大家有空把礼物发我一下，情人节马上就要到了，我给大家准备了精美的地址",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 65,
+    "text": "你朋友圈都是爱止痛 现在你才不幸福 薄荷水 无忧草 幻痛药 六月九日阴 小哑巴然后主页时不时发一些装痛文案 每天比谁都抽象 结果你说情人节有人陪你过了？",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 65,
+    "text": "Hello hello 你好呀姑娘偶然看到你的相片太可爱啦you r so fantastic没忍住冒昧过来私信你。先自我介绍下，中国人在米国上学工作定居 计算机专业毕业，现在有自己的事业，在互联网科技行业，平时呢生活极简，爱好乐器健身摄影滑雪网球，然后健身很多年，喜欢旅行一共去过30+个国家 马上情人节了 可以和你在一起吗？",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 65,
+    "text": "宝宝，你到底分手没？今天就七夕节了什么时候轮到我？真打算和她一辈子？你上次问我做小三的事我想好了我愿意。我们现在算是什么关系呢？是恋爱关系吗？不是我逼问你，是我朋友他们问我我有点不知道怎么回答 我没有别的意思 你不用有压力",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 65,
+    "text": "你跟姨说实话，到底是想玩弄一下姨的感情?姨也一把年纪了，背着家里老头子和你在一起，觉得你才是姨的真爱，刚认识的时候你觉得姨有女人味， 姨美，昨晚上让姨帮你洗衣服洗内裤也给你洗了，后面你又想出去玩，姨觉得你还小，没有同意，怎么你一回家就把姨拉黑了?给你打电话你也不接，对姨有什么不满意的你可以跟姨说，不要这样对姨，我也一把年纪了，受不了这样的刺激，乖乖不要对这样好不，回到姨的身边，姨什么都依你，如果你看到了，记得给姨回个信息，姨等你",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 67,
+    "text": "(停车)(低调的按了按劳斯莱斯的喇叭) (车窗降下) (咬着玫瑰花) (凸造型)(正准备开口) (隔壁交警大队说我停车占道) (充耳不闻) (带上墨镜) (播放凤凰传奇)(薄唇微动)你好，结婚",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 67,
+    "text": "你的四周美女那么多💃🏻💃🏻但是好像只偏偏看中了我🌹🌹恩爱过后就不来找我😣总说你很忙没空来陪我😭😭你的快手里面辣妹很多🥀🥀原来我也是其中一个🥀万分难过问你为什么难道痴情的我不够热火🔥💋伤不起真的伤不起🥀🥀我想你想你想到昏天黑地电话打给你🐠美女又在你怀里我恨你恨你到心如血滴",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 67,
+    "text": "兄弟就是兄弟呀。。。兄弟是不可以变成妻子的，变成妻子了你就再也不能坦率地拍拍兄弟的肩膀再和他一起仗剑走天涯了。。如果变成妻子了你们就只能在夜晚一起缩在被子里再钻进欲望与爱的温床了。。所以兄弟只能是妻子。。哦不。。。。我是说。。。所以妻子只能是兄弟。。。。抱歉。。我是说。。。兄弟。。。。。。。。",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 67,
+    "text": "恋爱我有7不谈\n第一：异性我不谈 相互不理解 性格不合\n第二：同性我不谈相互理解太多 没意思\n第三：活人我不谈 我自己是活人 不用再谈活人\n第四：亖人我不谈\n第五:比我大的 我不谈   无法沟通\n第六:比我小的 我不谈   我自己照顾不好  还要照顾他\n第七:年纪跟我一样的  我不谈  没有新鲜感",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 67,
+    "text": "大家好 我是富二代 我想找一位真心朋友 送他一栋房子 我太有钱了身边根本没有一个真心朋友 所以我现在装穷 我现在没钱吃早饭 现在准备借二十吃早饭 谁在我最难的时候帮助我 谁就是我的真心朋友",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 67,
+    "text": "嫂子开门，我是我哥。嫂子，我就是看你和我哥在一块我这里痛，我这里难受。嫂子我和我哥一样的脸，他行为什么我不行，嫂子你不许这么偏心。嫂子，你的酒窝没有酒我却醉的像条狗嫂子，我哥到底哪里比我好？嫂子，昨晚的事别告诉我哥。",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 67,
+    "text": "视奸？什么视奸？朕是皇帝，天下大事无一逃过朕的耳目，朕想去哪里就去哪里，你凭什么不敢让朕去你空间巡逻？朕合理怀疑你在空间私养兵士，囤积枪甲，蓄意谋反，图谋皇位。",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 68,
+    "text": "#有在好好生活",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 70,
+    "text": "#生活需要分享欲",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 70,
+    "text": "是金子总会被我花光",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 70,
+    "text": "别给我画饼了 最近戒碳水",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 70,
+    "text": "像颗土豆 不仅土 还逗",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 70,
+    "text": "吾日三省吾身 吾没错",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 73,
+    "text": "#大学生精神",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 74,
+    "text": "#地球online",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 75,
+    "text": "#奥络青春守护官#奥络#奥络战痘有一套#香港小绿膏#早八痘急救指南#奥络香港小绿膏#奥络夫西地酸乳膏#奥络青春守卫战",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 77,
+    "text": "///",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 77,
+    "text": "#被考试支配的恐惧",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 78,
+    "text": "#学习打卡",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 79,
+    "text": "#医学生的日常",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 80,
+    "text": "#上海交通大学",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 81,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 81,
+    "text": "#大学生期末精神状态",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 82,
+    "text": "#大学生之今日人设 #精神状态岌岌可危#一拳打爆地球 #哪有不疯的硬撑罢了 #期末复习 #给世界亿点抽象 #一人分享一个抽象日常 #发疯文学 #表情包 @小红书成长笔记",
+    "action": "delete",
+    "reason": "xhs_title",
+    "reason_label": "xhs_title"
+  },
+  {
+    "source_post": 83,
+    "text": "#smoggy",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 84,
+    "text": "#朋友圈分享",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 87,
+    "text": "#超越玩家",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 88,
+    "text": "#期末周#女性励志",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 90,
+    "text": "继续",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 90,
+    "text": "#大学生",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 91,
+    "text": "#放假",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 93,
+    "text": "#西交利物浦",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 94,
+    "text": "如果有想问关于法大的问题的师弟师妹可以在评论区留言 我有时间可以解答的话会会一一回复哦🙌",
+    "action": "delete",
+    "reason": "promo",
+    "reason_label": "互动/导流引导"
+  },
+  {
+    "source_post": 94,
+    "text": "#中国政法大学",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 95,
+    "text": "#毕业朋友圈",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 96,
+    "text": "#哄自己学习",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 98,
+    "text": "#物理",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 99,
+    "text": "#毕业照",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 100,
+    "text": "#plog",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 101,
+    "text": "致谢",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 101,
+    "text": ".",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 101,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 101,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 101,
+    "text": "#李倦夏",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 103,
+    "text": "hiii！大家！最近怎么样！\n\t\n🤲🏻欢迎左滑收看～\n❶关于意义-要么得到 要么学到\n❷考前速通小技巧！\n❸完成比完美更重要\n❹哄自己学习的邪修tips\n//",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 103,
+    "text": "太奶学习法",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 103,
+    "text": "爱豆学习法",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 103,
+    "text": "🏨学习法\n\t\n期末周更需要好好奖励自己啦\n累了就多呆在没有天花板的地方\n去感受自己最真实的感受 好好照顾自己\n不要让感受与身体分离！你珍贵至极\n\t\n最后 祝福大家像小美一样勇敢果断\n活力满满 开开心心滴！好好生活 ^-^",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 104,
+    "text": "#分从四面八方来",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 105,
+    "text": "#医学生期末的精神状态",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 108,
+    "text": "今夜月色绮丽，若能与新标日君在月下吟咏动词变形的话那真是哟西哟西。我应在江户悠悠那种事情的话、会感到不安呢（扶额苦笑）でも像わたし这样的姑娘，也许消失才是我最好的宿命，也许只有在二⭐️次⭐️元的江湖悠悠里，才有真正的よしよし存在的吧，ね，你说对吧，新标日君？",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 108,
+    "text": "わたし不才，未能得sensei（老师）青睐ませんでした，该当切腹自尽！（拔刀）（怕痛没戳）（刀柄捅肚子）（yue）学期里扰sensei良久….红豆泥…私密马赛……",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 108,
+    "text": "这个时候…只要微笑就好了！",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 108,
+    "text": "#日语人的精神状态",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 109,
+    "text": "#我爱学习学习爱我",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 111,
+    "text": "#医学生的日常",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 112,
+    "text": "#考试周",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 113,
+    "text": "#男大学生",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 114,
+    "text": "#懵",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 116,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 116,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 116,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 116,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 116,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 116,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 116,
+    "text": "#饭导的大学生观察日记",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 117,
+    "text": "#日常vlog",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 119,
+    "text": "#医学生期末的精神状态",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 120,
+    "text": "#考试周",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 123,
+    "text": "#不孕不育",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 124,
+    "text": "#男大学生日常",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 125,
+    "text": "#我的日常vlog",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 126,
+    "text": "后来 中中的老子发现事情不对劲。",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 126,
+    "text": "每天要背的太多啦太多啦太多啦！",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 126,
+    "text": "下学期我一定会好好学习的！",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 126,
+    "text": "感觉期末月真的是跟世界断联了",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 126,
+    "text": "每天朋友发的消息都七八个小时才回（抱歉我的uu们",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 126,
+    "text": "晚上回寝室的路上登dy续个火花",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 126,
+    "text": "洗完澡上床继续背书",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 126,
+    "text": "背到两点睡觉",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 126,
+    "text": "早上七点两眼一睁收拾收拾去图书馆继续背书",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 126,
+    "text": "虽然很高压 但是我有的时候竟然会觉得这样很爽",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 126,
+    "text": "甚至担心考完了以后没事做会不会很空虚",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 126,
+    "text": "感觉自己多少是有点受虐倾向的。",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 126,
+    "text": "不过也还是很期待考完回家和爸爸妈妈团聚的！",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 126,
+    "text": "大家期末加油！",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 126,
+    "text": "#我的日常vlog",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 127,
+    "text": "#大学绩点",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 128,
+    "text": "#大学生精神",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 129,
+    "text": "#澳门科技大学",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 130,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 130,
+    "text": "hello，大家好，我是@小renn小饼干 ，期末周令人苦不堪言😭，但当我发现了期末复习最舒服的时间表，期末周也不再痛苦，并用此方法连续三年考了第一，一起来看一下吧！",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 130,
+    "text": "✅我会提前一天定一个6:30的闹钟⏰，第二天早上，闹钟响的时候，我会再睡一会到6:50，因为我不能做到闹钟响就起，所以我会把闹钟提前20min，这样可以再赖一会床😴",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 130,
+    "text": "✅7:20到达饭堂买早饭，吃早饭，7:50到达图书馆",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 130,
+    "text": "✅7:50-8:00会写一下to do list，这个to do list我是提前一天就会在心里规划好，然后第二天再写到纸上",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 130,
+    "text": "✅8:00-10:00我一般习惯复习高难度的专业课，因为这个时候注意力比较集中",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 130,
+    "text": "✅10:00-10:20学了一会之后，我会给自己一会休息的时间摸鱼，玩玩手机，回回消息，以及刚才不会的的问题和知识点🙋‍♀️在手机上和同学请教交流一下",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 130,
+    "text": "✅10:20-11:30这个时候会稍微有点饿，不太想学了，我会安排一些稍微不废脑子的课程，比如马原、毛概一些需要记忆的，我会先在纸上稍微画画✍️，然后出去背书记忆",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 130,
+    "text": "✅11:30-12:30一般下课时间点是11:50，为了避开食堂高峰期，我会选择这个时间去吃饭，吃完饭之后我会给自己买一杯咖啡☕️来陪伴自己下午的学习📖",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 130,
+    "text": "✅12:30回到图书馆，我还不是很困，这个时候我会拿出一张纸大致写一下上午所背的内容，困了就会趴桌子上睡一会",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 130,
+    "text": "✅14:00-17:00这个时候刚刚睡醒，活力满满，就再接着学习复习专业课",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 130,
+    "text": "✅17:00-17:20停止学习，进行休息",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 130,
+    "text": "✅17:20-18:00接着背一些需要记忆的",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 130,
+    "text": "✅18:00-18:40吃饭➕回信息",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 130,
+    "text": "✅18:40-21:00再次回到图书馆，此时我会做一些题来检验巩固上午所学",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 130,
+    "text": "✅21:00回宿舍，在回宿舍的路上我会在脑子里默背今天的内容，或者和同学在手机上交流一下今天遇到的学习难题，然后再在心里盘算一下明天的 to do list",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 130,
+    "text": "✅21:00-21:30洗漱",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 130,
+    "text": "✅21:30-23:00上床美美享受属于自己的晚间time",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 130,
+    "text": "🩵祝大家期末高分过！",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 130,
+    "text": "#大学生期末精神状态",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 132,
+    "text": "#抽象",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 133,
+    "text": "#汉语言文学",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 136,
+    "text": "#文案编辑",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 137,
+    "text": "#手写",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 138,
+    "text": "#这是我最喜欢的文案bot",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 139,
+    "text": "#宁麻小逗手写 #一起练字作业打卡 #手写文案 #每日手写 #今日摘抄 #手写文字 #每日练字打卡 #一起练字 #手写体 @一起练字硬笔书法 @一起练字 @一起练字作业打卡",
+    "action": "delete",
+    "reason": "xhs_title",
+    "reason_label": "xhs_title"
+  },
+  {
+    "source_post": 140,
+    "text": "#宁麻小逗手写 #一起练字作业打卡 #手写文案 #每日手写 #今日摘抄 #手写文字 #每日练字打卡 #一起练字 #手写体 @一起练字硬笔书法 @一起练字 @一起练字作业打卡",
+    "action": "delete",
+    "reason": "xhs_title",
+    "reason_label": "xhs_title"
+  },
+  {
+    "source_post": 141,
+    "text": "--模板一：收作业通知（通用版）--\n· 标题：【期中作业提交通知】\n各位同学好：\n根据本学期教学安排，现就《【课程名称】》期中作业的提交事宜通知如下：\n1⃣️ 作业内容：【简要说明作业题目 / 要求 / 附件说明】\n2⃣️ 提交截止时间：2026年 【4月X日 / 5月X日】（周X）XX:XX\n3⃣️ 提交方式及格式要求：\n-- 请将作业文件命名为：【学号_姓名_课程名称_期中作业】（或设置对应题目&命名规则，这样无需担心同学不按要求命名--详见图2）\n-- 文件格式要求为：【PDF / Word / 其他】（可在收集作业的时候对应限制格式，非规定格式的无法提交--详见图3）\n-- 提交至线上平台：【群报数 / 邮箱 / 私信 等】\n-- 【可选：是否同时提交纸质版 / 是否需要压缩包】\n4⃣️ 特别注意：\n-- 本次作业评分【是否】计入期末成绩，占XX%\n-- 逾期未提交视为未交，不再单独提醒\n-- 请严格遵守学术规范，严禁抄袭\n-- 学委将在截止后统一整理并发送至任课老师邮箱（一键导出免整理，详见图3）\n如有疑问，请联系学委【姓名】或任课老师 【老师姓名】。\n请大家合理安排时间，按时提交。\n祝学习顺利，生活愉快！\n\t\n--模板二：考试通知（通用版）--\n· 标题：【期中考试通知】——《【课程名称】》\n各位同学好：\n根据教学计划安排，《【课程名称】》期中考试安排如下，请仔细阅读并互相转告。（如有多门考试，可统一在工具里发布，并要求同学确认已读，详见图4）\n1⃣️ 考试时间：2026年 【4月X日 / 5月X日】（周X）\n【上午/下午】XX:XX–XX:XX（请提前10–15分钟到达考场）\n2⃣️ 考试地点：【教学楼名称】 【教室号】\n（示例：第二教学楼 301教室）\n3⃣️ 考试形式：【闭卷 / 开卷 / 其他】\n4⃣️ 必须携带：\n✅ 本人学生证\n✅ 本人身份证（双证齐全）\n5⃣️ 考场纪律：\n❌ 严禁携带手机等电子设备（须关机/静音并放于指定位置）\n❌ 迟到15分钟及以上不得入场\n❌ 严禁作弊、交头接耳、传递物品\n✅ 服从监考老师安排，保持考场秩序",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 142,
+    "text": "今天看到一个家长的朋友圈文案，感触颇深，她说我很爱我的儿子，我可以为他付出生命，但是请别让我陪他写作业，付出生命是“咯嘣”一下，辅导作业是“咯嘣，咯嘣，咯嘣”好几下[泪崩R]#作业",
+    "action": "delete",
+    "reason": "title",
+    "reason_label": "标题/集合描述"
+  },
+  {
+    "source_post": 144,
+    "text": "#朋友圈",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 145,
+    "text": "#大学生",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 147,
+    "text": "卖惨",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 147,
+    "text": "#大学生期末考前精神状态",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 148,
+    "text": "#语文材料趣味标题",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 149,
+    "text": "#大广赛",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 151,
+    "text": "尊敬的家长们：",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 151,
+    "text": "大家好☀️",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 151,
+    "text": "为了宝贝👧👦暑假能继续保持各项良好的习惯。请大家在暑假期间共同配合，并督促宝贝做好以下几点小任务👇",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 151,
+    "text": "1️⃣#幼师必备",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 152,
+    "text": "#大学班委",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 153,
+    "text": "#享受学习过程",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 154,
+    "text": "#不用怕找不到文案啦bot",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 154,
+    "text": "#INFJ#infj",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 154,
+    "text": "#文案",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 154,
+    "text": "#文案分享",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 154,
+    "text": "#infj的世界",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 154,
+    "text": "#适合infj的文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 154,
+    "text": "#文案馆",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 154,
+    "text": "#今日文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 154,
+    "text": "#日常文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 155,
+    "text": "#朋友圈搞笑文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 156,
+    "text": "二编",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 156,
+    "text": "#文案写作",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 158,
+    "text": "#浪漫生活的记录者",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 159,
+    "text": "#大广赛作品",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 160,
+    "text": "旅途中的即时体验\n让我被迫自己做出所有决定\n处理了无数意外和小麻烦\n享受着无人分享的绝对自由\n与陌生人短暂而真诚的交流\n同样也目睹了旅途中的广阔与多样\n-\n朋友问我这趟旅行玩得怎么样\n我说，还行，但没有以前有激情了\n旅游太久后快乐的阈值变高了\n-\n因为我意识到\n旅游并不能解决我当前的困境\n一味逃避不去面对，问题始终会回来\n-\n我喜欢旅行，但发现自己不适合一直去旅行\n我需要有稳定的生活来源作为支撑\n体验过长途旅行之后也发现了身体无法支撑长期旅行\n探索体验过后，承认有些事情不适合自己，也是一种很棒的经历\n-\n但那些旅途中的片段会融入你的生命，带来很多长期价值：\n决策变得更容易，我更清楚自己的喜好，不再过度依赖外界意见\n耐受力提升，对日常生活中的计划外事件不再轻易焦虑，淡然太多\n更能享受独处，能从安静的周末中获得滋养，而不是匮乏\n视角变得开阔，对生活中的琐碎烦恼更容易看开，不再钻牛角尖，对很多事情和人祛魅\n生命方向感逐渐清晰，我有想做的事情了\n-\n分享一些solo trip中微小而温暖的联结：",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 161,
+    "text": "#毕业论文#致谢#优秀#论文#很担心论文人的精神状态#施复舒#大家畅所欲言#每天学习一点点#分享#论文写作",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 162,
+    "text": "#不懂就问有问必答",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 163,
+    "text": "#文字",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 164,
+    "text": "#数字媒体技术",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 166,
+    "text": "#没有天赋那就反复",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 167,
+    "text": "#小红书游学团",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 169,
+    "text": "#拼图",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 170,
+    "text": "#创意星球学院奖",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 171,
+    "text": "🏷️",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 172,
+    "text": "谁懂啊家人们✨！专属搞笑女的小众抽象发疯文案来咯\n句句无厘头又很戳人，自带沙雕氛围感\n发朋友圈、发主页简介、发聊天语录都适配🥳\n不用动脑直接复制，做朋友圈最独特的抽象美女～\n\t\n👇文案合集收好",
+    "action": "delete",
+    "reason": "title",
+    "reason_label": "标题/集合描述"
+  },
+  {
+    "source_post": 172,
+    "text": "人生一波三折 好便宜 -_-||",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 174,
+    "text": "·",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 175,
+    "text": "#生活文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 177,
+    "text": "拍了拍我 的收款码显示余额不足",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 178,
+    "text": "#研究生",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 179,
+    "text": "#学习也可以很快乐",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 180,
+    "text": "#蛋挞的朋友圈",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 180,
+    "text": "～～～",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 180,
+    "text": "#朋友圈分享",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 182,
+    "text": "#朋友圈分享",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 183,
+    "text": "研二下 感觉前途一片抽象",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 183,
+    "text": "想说的话都在图里了～",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 183,
+    "text": "#我的读研日常",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 184,
+    "text": "于是我摊开手，允许一切绩点流走。",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 184,
+    "text": "逃课，要有点到为止的勇气。",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 184,
+    "text": "上课，只要淡淡的就会顺顺的",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 184,
+    "text": "被窝你带我走好吗，我们不要被早八找到。",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 184,
+    "text": "缘分竟默许绩点离去。",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 184,
+    "text": "我与早八久周旋宁作吾。",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 184,
+    "text": "以后只流幸福的眼泪吧。",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 184,
+    "text": "我无心与你一决高下，再见 ​。#大学生#大学#早八#上课",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 185,
+    "text": "#热门",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 186,
+    "text": "#论文人的精神状态",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 187,
+    "text": "感谢大家对我一年以来无理取闹的包容与陪伴，都是大家罪有应得，今年我会变本加厉的",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 187,
+    "text": "号卖掉啦，虽然很不舍得，但是还是要开始新的旅途啦，江湖路远，有缘再会，感恩相遇，新号主是原号主本人",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 187,
+    "text": "朋友圈权限调来调去的，有人很关注你吗？",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 187,
+    "text": "这天咋那么冷 冷得我得了最近很火的那个什么 冷脸萌",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 187,
+    "text": "命运的推背感好足啊……等等前面是悬崖啊！",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 187,
+    "text": "不管这个世界上多少坏人讨厌我攻击我不爱我我依旧不语就萌萌的躺在这里",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 187,
+    "text": "想我了可以给我打电话号码自己猜",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 187,
+    "text": "谁微信有钱 我拿谢谢跟你换",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 187,
+    "text": "你总说没钱 没钱去抢呀 趁年轻 还能早点放出来",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 187,
+    "text": "你真的这么高冷嘛 要是我每天给你52个0元呢",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 187,
+    "text": "我只是嘴巴毒了点其实本性还是很坏的",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 187,
+    "text": "面相学根本就不准，虽然我每天都极尽恶毒地言语诅咒我的仇人，但我的长相还是呆萌无辜可爱俏丽调皮大方水灵那一挂的",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 187,
+    "text": "头晕晕的 感觉缺点维生素RMB",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 187,
+    "text": "你们只看到我每天搞抽象，精神诡异发无聊微博，吃垃圾食品，晚睡晚起的样子，却从没看到我努力生活，熬夜学习，认真与人交流，坚持健身的样子，你们看不到，我也没干过",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 187,
+    "text": "被生活泼了一盆冷水太好了又省了一笔水费",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 187,
+    "text": "如果你针对我，背后给我使绊子，触碰我的逆鳞，我将会装作不知道",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 187,
+    "text": "可恶！真是被惹毛了！毛茸茸地离开可恶！真是被看扁了！扁扁地离开可恶！真是被小看了！小小地离开",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 187,
+    "text": "别骗我 我的心是薯片做的",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 187,
+    "text": "焦虑也没这么可怕嘛 焦焦的 脆脆的 像烧烤一样",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 187,
+    "text": "就算是m日子也不能这么痛啊",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 188,
+    "text": "·",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 188,
+    "text": "·",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 188,
+    "text": "——契诃夫",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 188,
+    "text": "·",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 188,
+    "text": "·",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 188,
+    "text": "·",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 188,
+    "text": "#职场",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 188,
+    "text": "#打工人",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 188,
+    "text": "#打工人日常",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 188,
+    "text": "#文案",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 188,
+    "text": "#打工人精神状态",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 188,
+    "text": "#草台就是最好的班子",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 189,
+    "text": "#语音厅",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 190,
+    "text": "#这是我最喜欢的文案bot",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 191,
+    "text": "#游戏入侵",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 191,
+    "text": "#游戏入侵寻歌",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 191,
+    "text": "#文案",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 191,
+    "text": "#作家笔下的浪漫",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 191,
+    "text": "#文学的力量",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 191,
+    "text": "#原来文字真的可以共情",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 191,
+    "text": "#文字的力量是震耳欲聋",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 191,
+    "text": "#被文字打动了",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 191,
+    "text": "#文字是有力量的",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 193,
+    "text": "@蜂花",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 193,
+    "text": "#创意星球学院奖#广告文案#蜂花#学院奖2024春季征集大赛#头发#脱发",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 195,
+    "text": "自存大学生期末周发疯文案🙃#我爱学习学习爱我",
+    "action": "delete",
+    "reason": "xhs_title",
+    "reason_label": "xhs_title"
+  },
+  {
+    "source_post": 196,
+    "text": "/北岛",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 196,
+    "text": "/简媜",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 196,
+    "text": "#奥德赛时期 #高校诗歌创作联盟 #毕业季时光邮局 二十岁[eoi]#",
+    "action": "delete",
+    "reason": "xhs_title",
+    "reason_label": "xhs_title"
+  },
+  {
+    "source_post": 197,
+    "text": "#数媒",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 198,
+    "text": "#浪漫生活的记录者",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 198,
+    "text": "#浪漫生活的记录者 #令人惊艳的句子 #惊艳到你的句子 #你作业写完了吗 #寒假作业速成大法 #优质文案 #作业 #学生精神状态 #倒计时开学 @生活薯 @小红书创作助手 @小红书成长笔记 @小红书创作学院 creator academy",
+    "action": "delete",
+    "reason": "xhs_title",
+    "reason_label": "xhs_title"
+  },
+  {
+    "source_post": 199,
+    "text": "#plog",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 200,
+    "text": "9高考结束的同学们看过来！\n高考结束的同学们看过来啦！\n暑假太长在家无聊\n未入大学略显焦虑\n充实自己无下从‬手\n对大学生活有好奇\n现限时推出大学生活免费体验活动\n名额有限 \n面向全体高中毕业生～\n闲着也是闲着，不如提前感受大学生活！！！\n🈚年龄要求\n🈚分数限制\n人来就‬行\n基础内容：\n•【微积分】\n•【大学物理】\n•【化学原理】\n•【数据结构】\n•【马原】\n•【军事理论】\n还附送匡院特产\n•【微积分挑战性考核】\n•【大学物理挑战性考核】\n•【化学原理挑战性考核】\n•【数据结构挑战性考核】\n学习半个月后‬可参加真实大学期末‬考试检‬验‬学习成果\n•沉浸式大学体验（附赠‬食堂体验）\n•路费自备 住宿费包（住我宿舍睡我床）\n我的大学‬你来上 \n我的‬期末你来考\n你的‬暑假我‬来过",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 201,
+    "text": "#短句",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 202,
+    "text": "点个赞藏再走吧(υ . . υ)",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 202,
+    "text": "欢迎宝宝入住 🔝有入住楼",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 202,
+    "text": "#考试周",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 203,
+    "text": "#语音厅",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 205,
+    "text": "#抽象文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 206,
+    "text": "#试卷标题",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 207,
+    "text": "#抽象",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 209,
+    "text": "#尸体硬硬的",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 209,
+    "text": "#尖叫扭曲阴暗地爬行",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 210,
+    "text": "我",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 210,
+    "text": "好",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 210,
+    "text": "想",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 210,
+    "text": "放",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 210,
+    "text": "假",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 210,
+    "text": "#知识它不进脑子",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 211,
+    "text": "#作业",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 212,
+    "text": "#惊艳到你的句子",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 213,
+    "text": "#简约文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 213,
+    "text": "#素材分享#朋友圈文案#ins风#设计美学#审美积累#素材分享#",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 214,
+    "text": "#生活需要分享欲",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 214,
+    "text": "#从不跟风自成法风",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 215,
+    "text": "🍯 | 儲存小美好",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 215,
+    "text": "人是漂泊的鸟 爱是宜居的岛",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 216,
+    "text": "#分享好句 #我懂诗歌的浪漫 #诗人 #浪漫文字的记录者 #给夜晚写首诗 #写到心坎里的文字 #句子控 #",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 217,
+    "text": "#分享好句 #我懂诗歌的浪漫 #诗人 #浪漫文字的记录者 #给夜晚写首诗 #写到心坎里的文字 #句子控 #",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 218,
+    "text": "#朋友圈",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 219,
+    "text": "#句子控",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 220,
+    "text": "#短句",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 221,
+    "text": "#2024我的兴趣支点",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 222,
+    "text": "找找找快乐星球",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 222,
+    "text": "記·🧾",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 223,
+    "text": "#审美积累",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 225,
+    "text": "#inmyfeelings",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 225,
+    "text": "#plog",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 226,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 226,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 226,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 226,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 226,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 226,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 226,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 226,
+    "text": "#INTJ",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 227,
+    "text": "#韩语翻译",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 228,
+    "text": "#文案",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 229,
+    "text": "#英语地道表达",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 230,
+    "text": "🍀01",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 230,
+    "text": "🍀02",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 230,
+    "text": "——李娟《我的阿勒泰》",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 230,
+    "text": "🍀03",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 230,
+    "text": "——李娟《我的阿勒泰》",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 230,
+    "text": "🍀04",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 230,
+    "text": "——李娟《我的阿勒泰》",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 230,
+    "text": "🍀05",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 230,
+    "text": "——李娟《我的阿勒泰》",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 230,
+    "text": "🍀06",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 230,
+    "text": "——李娟《我的阿勒泰》",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 230,
+    "text": "🍀07",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 230,
+    "text": "——李娟《我的阿勒泰》",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 230,
+    "text": "🍀08",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 230,
+    "text": "——李娟《我的阿勒泰》",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 230,
+    "text": "🍀09",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 230,
+    "text": "——李娟《我的阿勒泰》",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 230,
+    "text": "🍀10",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 230,
+    "text": "——李娟《我的阿勒泰》",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 230,
+    "text": "#短句文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 232,
+    "text": "#英语地道表达",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 233,
+    "text": "某些瞬间会支撑着我",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "我无限地爱着新的一日",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "我说 我最近幸福的没话说",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "在大太阳底下总会有新鲜事",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "苹果的第一万六千个故事",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "是某天是一瞬间",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "镜头邂逅阳光 折射幸福",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "请让我继续感知快乐",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "我们在世上是为了感受阳光",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "打开生活的天窗 阳光自会照进来",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "在这发霉的世界我想被阳光晒透",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "生命和阳光会是同一质地",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "我说 专注于自己的幸福",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "爱生活这件事 永远来得及",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "出门遛遛 找找快乐",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "几帧生活痕迹",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "幸福呀 因人而异",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "莫道桑榆晚为霞尚满天",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "生命是一棵长满可能的树",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "我是时长记录着自己的幸福",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "好事永远不会消失",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "最近的状态很满意",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "生活的本意是开心",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "在喜欢的状态里生活吧",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "生活如河 自己就是自己的船",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "如果幸福是酵母 那我一定是蓬松的面包",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "幸福就是吃饱了睡",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 233,
+    "text": "终有新故事 值得盼望",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "某些瞬间会支撑着我",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "我无限地爱着新的一日",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "我说 我最近幸福的没话说",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "在大太阳底下总会有新鲜事",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "苹果的第一万六千个故事",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "是某天是一瞬间",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "镜头邂逅阳光 折射幸福",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "请让我继续感知快乐",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "幸福这门课，今年拿满分。一定会见，就在某天",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 234,
+    "text": "我们在世上是为了感受阳光",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "打开生活的天窗 阳光自会照进来",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "在这发霉的世界我想被阳光晒透",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "生命和阳光会是同一质地",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "我说 专注于自己的幸福",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "爱生活这件事 永远来得及",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "出门遛遛 找找快乐",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "几帧生活痕迹",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "幸福呀 因人而异",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "莫道桑榆晚为霞尚满天",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "生命是一棵长满可能的树",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "我是时长记录着自己的幸福",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "好事永远不会消失",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "最近的状态很满意",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "生活的本意是开心",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "在喜欢的状态里生活吧",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "生活如河 自己就是自己的船",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "我不怕大冷天，因为心里有炽烈的小火苗",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 234,
+    "text": "如果幸福是酵母 那我一定是蓬松的面包",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "幸福就是吃饱了睡",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 234,
+    "text": "终有新故事 值得盼望",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 235,
+    "text": "#小众高级文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 237,
+    "text": "#文案",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 237,
+    "text": "看到这篇笔记 说明你已经在幸福里啦ovo",
+    "action": "delete",
+    "reason": "promo",
+    "reason_label": "互动/导流引导"
+  },
+  {
+    "source_post": 238,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 238,
+    "text": "#odd",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 238,
+    "text": "#我的摄影日记",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 238,
+    "text": "#审美积累",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 238,
+    "text": "#iPhone拍照",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 238,
+    "text": "#低饱和",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 238,
+    "text": "#暗调滤镜",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 238,
+    "text": "#调色教程",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 238,
+    "text": "#笔记灵感",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 238,
+    "text": "#歌单分享",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 239,
+    "text": "#朋友圈",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 240,
+    "text": "#书摘",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 241,
+    "text": "#INFP",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 242,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 242,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 242,
+    "text": "#我会被文字打动",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 243,
+    "text": "#英语美文",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 244,
+    "text": "#朋友圈文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 245,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 245,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 245,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 245,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 245,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 245,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 245,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 245,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 245,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 245,
+    "text": "#WeChat签名",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 247,
+    "text": "我先来",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 247,
+    "text": "#infp日常",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 248,
+    "text": "#颓废的人生赞歌",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 249,
+    "text": "“淡淡的死感”是什么呢",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 249,
+    "text": "之前发的帖子有很多小宝让我开这个主题",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 249,
+    "text": "可是我也不知道什么是淡淡的死感的文字",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 249,
+    "text": "是看了之后会嘎巴一下觉得自己死掉了",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 249,
+    "text": "还是看完忍不住感叹人生苦涩",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 249,
+    "text": "所以 我想听听你的答案",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 249,
+    "text": "#颓废的人生赞歌",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 249,
+    "text": "虽然但是 我还是希望你开心",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 250,
+    "text": "#INFP#INFP会懂#INFP小蝴蝶",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 251,
+    "text": "自存",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 251,
+    "text": "#情绪化文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 252,
+    "text": "#文艺",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 253,
+    "text": "台湾",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 254,
+    "text": "#情绪化文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 255,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 255,
+    "text": "每一句都是独一无二",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 255,
+    "text": "为ISFP而诞生的",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 255,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 255,
+    "text": "事情总会失控，不如躺在狼藉里，等黄昏把一切镀成金色。",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 255,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 255,
+    "text": "车窗玻璃映出的那张脸，正在用雨水抒写本周请假条：因天气宜睡觉。",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 255,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 255,
+    "text": "不想说话，但可以陪你听完整张唱片。",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 255,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 255,
+    "text": "计划是明天的事，今天的风太适合发呆了。",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 255,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 255,
+    "text": "你不懂我没关系，我的猫懂。",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 255,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 255,
+    "text": "I Simply Feel Present.  「我只是感受当下」",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 255,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 255,
+    "text": "In Silence, Freedom Prevails.  「在沉默中，自由生长」",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 255,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 255,
+    "text": "#WeChat签名",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 256,
+    "text": "#infp精神世界",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 257,
+    "text": "#infp",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 257,
+    "text": "#书摘",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 257,
+    "text": "#冰岛",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 257,
+    "text": "#惊艳到你的句子",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 257,
+    "text": "#我会被文字打动",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 257,
+    "text": "#世界的尽头",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 257,
+    "text": "#关于我的墓志铭",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 259,
+    "text": "#mbti梗图",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 260,
+    "text": "#句子",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 261,
+    "text": "案中:",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 261,
+    "text": "#朋友圈",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 262,
+    "text": "01",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 262,
+    "text": "02",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 262,
+    "text": "“我与世界，都是帧帧瞬间”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 262,
+    "text": "03",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 262,
+    "text": "“人生是旷野”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 262,
+    "text": "“生命如暗室 不妨我明写春诗”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 262,
+    "text": "“万事都要全力以赴，包括开心”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 262,
+    "text": "04",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 262,
+    "text": "“允许一切如其所是 然后记得勇敢”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 262,
+    "text": "05",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 262,
+    "text": "“万物与我都是自由诗”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 262,
+    "text": "“在这个发霉的世界我想被阳光晒透”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 262,
+    "text": "06",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 262,
+    "text": "“听一万种声音只成为自己”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 262,
+    "text": "07",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 262,
+    "text": "“你当像鸟飞往你的山”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 262,
+    "text": "“生命几许 遵从自己 会好 迟早”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 262,
+    "text": "08",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 262,
+    "text": "“要像太阳一样有起有落不失光彩”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 262,
+    "text": "“人终向前走花自向阳生”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 262,
+    "text": "“自己的感受永远置顶”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 262,
+    "text": "09",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 262,
+    "text": "“向上的生命力比皮囊更有杀伤力”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 262,
+    "text": "“以春为饵 去垂钩新生”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 262,
+    "text": "10",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 262,
+    "text": "“世界巨大我以渺小来爱它”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 262,
+    "text": "“不为人知的角落开满了鲜花”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 262,
+    "text": "#短句文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 263,
+    "text": "#infp",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 263,
+    "text": "#be",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 263,
+    "text": "#金句",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 263,
+    "text": "#酸涩文#虐恋",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 263,
+    "text": "#惊艳到你的句子",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 263,
+    "text": "#关于我的墓志铭",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 264,
+    "text": "🌧️",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 264,
+    "text": "01",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 264,
+    "text": "02",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 264,
+    "text": "03",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 264,
+    "text": "04",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 264,
+    "text": "05",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 264,
+    "text": "06",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 264,
+    "text": "——邱妙津《鳄鱼手记》",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 264,
+    "text": "07",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 264,
+    "text": "08",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 264,
+    "text": "#文字的力量震耳欲聋",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 265,
+    "text": "---",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 265,
+    "text": "#情绪化文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 266,
+    "text": "#成为自己#文案分享",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 267,
+    "text": "#文字",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 267,
+    "text": "#木戎",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 268,
+    "text": "#陈绮贞",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 269,
+    "text": "#人生流淌在诗歌里",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 270,
+    "text": "#句子控",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 271,
+    "text": "一重山有一重山的错落 我有我的平仄",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "我祝你永远自由",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "我在等世上唯一契合灵魂",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "不计划太多反而能勇敢冒险",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "三分钟热度就有三分钟乐趣",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "我与我周旋 宁做我",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "不要担心两天后和八公里以外的事情",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "发球前的停滞 是在等待与你的同频",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "如果再漂亮一点的话 看你的眼神就不会闪躲了",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "花会自然开 老天爱笨小孩",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "我的生命是一万次的春和景明",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "更好的成为自己 而不是成为更好的自己",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "一重山有一重山的错落 我有我的平仄",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "风吹哪页读哪页，哪页不懂撕哪页",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "乐观和自由才是生活的解药",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "不要美化那条你未走过的路",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "你真的懂唯一的定义 并不简单如呼吸",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "“浪漫和悲观并不冲突 我时常消极又觉得生活很美好”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "i seek for pleasure",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "希望以后的生命里 不要再有让你心痛的雨季",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "人因不完美才更完美",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "村长 我承认我是一只没有天赋的小羊",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "再说吧 随便吧 都可以",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 271,
+    "text": "#isfp",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 272,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 272,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 272,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 272,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 272,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 272,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 272,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 272,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 272,
+    "text": "-",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 272,
+    "text": "#人生电影时刻#随笔",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 273,
+    "text": "#INFP",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 274,
+    "text": "#文案",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 275,
+    "text": "#想忘却忘不掉的人",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 276,
+    "text": "#文案",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 276,
+    "text": "#大仙大仙",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "❥",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "#文案",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 277,
+    "text": "#命运",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 279,
+    "text": "#我会被文字打动",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 279,
+    "text": "#我会被文字打动",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 280,
+    "text": "#infp",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 280,
+    "text": "#眼泪",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 280,
+    "text": "#书摘",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 280,
+    "text": "#读是读书的读",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 280,
+    "text": "#重读一页青春",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 280,
+    "text": "#惊艳到你的句子",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 280,
+    "text": "#我会被文字打动",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 281,
+    "text": "“被人读懂是世界上最大的幸福。”",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 281,
+    "text": "小蝴蝶们留下你最爱的一句话吧",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "本批重复"
+  },
+  {
+    "source_post": 281,
+    "text": "#小众高级文案",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 282,
+    "text": "#我被翻译成了",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 283,
+    "text": "允许一切如其所是",
+    "action": "delete",
+    "reason": "duplicate",
+    "reason_label": "库内已存在"
+  },
+  {
+    "source_post": 283,
+    "text": "#小红书年度诗篇",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 284,
+    "text": "#infj",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 285,
+    "text": "#短句",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 286,
+    "text": "#文案",
+    "action": "delete",
+    "reason": "length",
+    "reason_label": "过短或过长"
+  },
+  {
+    "source_post": 287,
+    "text": "#我会被文字打动",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 290,
+    "text": "#生活就像是一场蓝调的梦",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  },
+  {
+    "source_post": 291,
+    "text": "#我会被文字打动",
+    "action": "delete",
+    "reason": "xhs_hashtag_only",
+    "reason_label": "xhs_hashtag_only"
+  }
+]
