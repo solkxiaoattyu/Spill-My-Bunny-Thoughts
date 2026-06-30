@@ -9,6 +9,7 @@ import {
 import { selectRefreshBatch } from "../services/chatchat/matchSelect";
 import {
   commitMatchBatch,
+  createMatchRefreshSession,
   getRefreshRemaining,
   loadMatchRefreshSession,
   MATCH_BATCH_SIZE,
@@ -16,6 +17,10 @@ import {
   saveMatchRefreshSession,
 } from "../services/chatchat/matchSession";
 import { isAiConfigured, loadAiConfig, resolveApiConfig } from "./aiConfig";
+import {
+  isFinalWeekCollapseQuery,
+  resolveFinalWeekCollapseCopies,
+} from "./queryEasterEggs";
 
 export interface MatchedCopy {
   id: string;
@@ -88,6 +93,28 @@ async function runQueryMatch(query: string, isRefresh: boolean): Promise<MatchQu
 
   if (isRefresh && session.refreshCount >= 5) {
     session = { sessionKey: trimmed, shownIds: [], refreshCount: 0, baselineScore: undefined };
+  }
+
+  if (!isRefresh && isFinalWeekCollapseQuery(trimmed)) {
+    const preset = resolveFinalWeekCollapseCopies(corpus);
+    if (preset.length === 3) {
+      session = createMatchRefreshSession(trimmed);
+      const results = preset.map((copy, index) =>
+        toMatchedCopy({
+          id: copy.id,
+          text: copy.text,
+          matchPercent: Math.max(97 - index * 2, 91),
+        }),
+      );
+      const newIds = preset.map((copy) => copy.id);
+      session = commitMatchBatch(session, newIds, false, 1);
+      saveMatchRefreshSession(QUERY_MATCH_SESSION_KEY, session);
+      return {
+        results,
+        refreshRemaining: getRefreshRemaining(session),
+        mode,
+      };
+    }
   }
 
   const ranked = await rankForQuery(trimmed, session.shownIds);
