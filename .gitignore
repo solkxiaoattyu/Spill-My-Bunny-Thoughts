@@ -17,6 +17,7 @@ _extracted.json
 _readxlsx.py
 build_new_corpus.py
 _verify_emo.py
+_commit_msg.txt
 
 # 杂项
 .DS_Store
