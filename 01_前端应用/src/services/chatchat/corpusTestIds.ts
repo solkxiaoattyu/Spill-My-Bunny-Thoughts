@@ -1,7 +1,7 @@
+import { asset } from "../../utils/asset";
+
 export const TEST_REMOVED_IDS_KEY = "yourword-test-removed-corpus-ids";
-/** 部署在子路径（如 GitHub Pages）时也能正确加载移除清单 */
-const BASE = import.meta.env.BASE_URL || "/";
-export const TEST_REMOVED_IDS_MANIFEST_URL = `${BASE}corpus/test_removed_ids.json`;
+export const TEST_REMOVED_IDS_MANIFEST_URL = asset("/corpus/test_removed_ids.json");
 
 export function getTestRemovedIds(): Set<number> {
   try {

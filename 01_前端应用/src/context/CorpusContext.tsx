@@ -9,29 +9,50 @@ interface CorpusContextValue {
   status: CorpusStatus;
   error: string | null;
   count: number;
+  /** 向量索引是否已就绪（失败不阻塞主语料，仅降级语义匹配） */
+  indexReady: boolean;
 }
 
 const CorpusContext = createContext<CorpusContextValue>({
   status: "loading",
   error: null,
   count: 0,
+  indexReady: false,
 });
 
 export function CorpusProvider({ children }: { children: ReactNode }) {
   const [status, setStatus] = useState<CorpusStatus>("loading");
   const [error, setError] = useState<string | null>(null);
   const [count, setCount] = useState(0);
+  const [indexReady, setIndexReady] = useState(false);
 
   useEffect(() => {
-    Promise.all([loadCorpus(), loadCorpusIndex()])
-      .then(([corpus]) => {
+    let cancelled = false;
+
+    loadCorpus()
+      .then((corpus) => {
+        if (cancelled) return;
         setCount(corpus.length);
         setStatus("ready");
       })
       .catch((err: Error) => {
+        if (cancelled) return;
         setError(err.message || "语料加载失败");
         setStatus("error");
       });
+
+    loadCorpusIndex()
+      .then(() => {
+        if (!cancelled) setIndexReady(true);
+      })
+      .catch((err: Error) => {
+        console.warn("[Corpus] 向量索引加载失败，将使用标签匹配:", err.message);
+        if (!cancelled) setIndexReady(false);
+      });
+
+    return () => {
+      cancelled = true;
+    };
   }, []);
 
   useEffect(() => {
@@ -41,7 +62,9 @@ export function CorpusProvider({ children }: { children: ReactNode }) {
   }, []);
 
   return (
-    <CorpusContext.Provider value={{ status, error, count: count || getCorpusCount() }}>
+    <CorpusContext.Provider
+      value={{ status, error, count: count || getCorpusCount(), indexReady }}
+    >
       {children}
     </CorpusContext.Provider>
   );

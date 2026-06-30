@@ -4,12 +4,12 @@ import {
   loadPersistedRemovedIds,
   mergeRemovedIds,
 } from "./corpusTestIds";
+import { asset } from "../../utils/asset";
+import { fetchJsonWithRetry } from "../../utils/fetchJson";
 
 /** QC 失败 id — v2.0 语料重建后已清空，旧 id 不再适用 */const FAILED_IDS = new Set<number>([]);
 
-/** 部署在子路径（如 GitHub Pages）时也能正确加载语料 */
-const BASE = import.meta.env.BASE_URL || "/";
-export const CORPUS_URL = `${BASE}corpus/tagged_corpus.json`;
+export const CORPUS_URL = asset("/corpus/tagged_corpus.json");
 
 let corpusCache: CorpusCopy[] = [];
 let loadPromise: Promise<CorpusCopy[]> | null = null;
@@ -39,12 +39,18 @@ export async function loadCorpus(): Promise<CorpusCopy[]> {
   if (loadPromise) return loadPromise;
 
   loadPromise = (async () => {
-    persistedRemovedIds = await loadPersistedRemovedIds();
-    const res = await fetch(CORPUS_URL);
-    if (!res.ok) throw new Error(`语料加载失败 (HTTP ${res.status})`);
-    const raw = (await res.json()) as CorpusCopy[];
-    corpusCache = filterCorpus(raw);
-    return corpusCache;
+    try {
+      persistedRemovedIds = await loadPersistedRemovedIds();
+      const raw = await fetchJsonWithRetry<CorpusCopy[]>(CORPUS_URL, "语料加载失败");
+      corpusCache = filterCorpus(raw);
+      if (!corpusCache.length) {
+        throw new Error("语料为空，请检查网络后刷新重试");
+      }
+      return corpusCache;
+    } catch (err) {
+      loadPromise = null;
+      throw err;
+    }
   })();
 
   return loadPromise;

@@ -1,9 +1,9 @@
 import { TAG_LABELS } from "./labels";
 import type { MatchFilters } from "./types";
+import { asset } from "../../utils/asset";
+import { fetchJsonWithRetry } from "../../utils/fetchJson";
 
-/** 部署在子路径（如 GitHub Pages）时也能正确加载向量库 */
-const BASE = import.meta.env.BASE_URL || "/";
-export const CORPUS_VECTORS_URL = `${BASE}corpus/corpus_vectors.json`;
+export const CORPUS_VECTORS_URL = asset("/corpus/corpus_vectors.json");
 
 export type SparseVector = Map<number, number>;
 
@@ -134,35 +134,38 @@ export async function loadCorpusIndex(): Promise<CorpusIndex> {
   if (indexPromise) return indexPromise;
 
   indexPromise = (async () => {
-    const res = await fetch(CORPUS_VECTORS_URL);
-    if (!res.ok) throw new Error(`语料向量索引加载失败 (HTTP ${res.status})`);
-    const raw = (await res.json()) as {
-      version: number;
-      vocabSize: number;
-      vocab: string[];
-      idf: number[];
-      entries: Record<string, [number, number][]>;
-    };
+    try {
+      const raw = await fetchJsonWithRetry<{
+        version: number;
+        vocabSize: number;
+        vocab: string[];
+        idf: number[];
+        entries: Record<string, [number, number][]>;
+      }>(CORPUS_VECTORS_URL, "语料向量索引加载失败");
 
-    const termIndex = new Map<string, number>();
-    raw.vocab.forEach((term, i) => termIndex.set(term, i));
+      const termIndex = new Map<string, number>();
+      raw.vocab.forEach((term, i) => termIndex.set(term, i));
 
-    const entries = new Map<number, SparseVector>();
-    for (const [idStr, pairs] of Object.entries(raw.entries)) {
-      const vec: SparseVector = new Map();
-      for (const [idx, w] of pairs) vec.set(idx, w);
-      entries.set(Number(idStr), vec);
+      const entries = new Map<number, SparseVector>();
+      for (const [idStr, pairs] of Object.entries(raw.entries)) {
+        const vec: SparseVector = new Map();
+        for (const [idx, w] of pairs) vec.set(idx, w);
+        entries.set(Number(idStr), vec);
+      }
+
+      indexCache = {
+        version: raw.version,
+        vocabSize: raw.vocabSize,
+        vocab: raw.vocab,
+        termIndex,
+        idf: raw.idf,
+        entries,
+      };
+      return indexCache;
+    } catch (err) {
+      indexPromise = null;
+      throw err;
     }
-
-    indexCache = {
-      version: raw.version,
-      vocabSize: raw.vocabSize,
-      vocab: raw.vocab,
-      termIndex,
-      idf: raw.idf,
-      entries,
-    };
-    return indexCache;
   })();
 
   return indexPromise;
