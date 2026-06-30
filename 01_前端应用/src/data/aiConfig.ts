@@ -29,8 +29,9 @@ const DEFAULT_CONFIG: AiConfig = {
   model: "deepseek-chat",
 };
 
-/** 预置 API key 留空：公开仓库不入库密钥，由用户在设置面板填自己的 DeepSeek key（存 localStorage） */
-const PRESET_API_KEY = "";
+/** 预置 API key：构建时由 GitHub Actions 从仓库 Secret 注入（VITE_PRESET_API_KEY），不在源码中硬编码。
+ *  本地开发或未设置时为空，走本地规则模式；用户仍可在设置面板填自己的 key 覆盖。 */
+const PRESET_API_KEY = import.meta.env.VITE_PRESET_API_KEY ?? "";
 
 export function loadAiConfig(): AiConfig {
   const stored = localStorage.getItem(AI_CONFIG_KEY);
