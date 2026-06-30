@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { asset } from "../utils/asset";
 
 interface WelcomeProps {
   onComplete: () => void;
@@ -28,7 +29,7 @@ export default function Welcome({ onComplete }: WelcomeProps) {
       aria-label="进入 YourWord"
     >
       <img
-        src="/welcome-splash.png"
+        src={asset("/welcome-splash.png")}
         alt="YourWord — Words for your moments. Make your circle more you."
         className="welcome-splash-art"
         draggable={false}

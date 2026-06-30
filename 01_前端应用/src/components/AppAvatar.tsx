@@ -1,3 +1,5 @@
+import { asset } from "../utils/asset";
+
 const SIZE_CLASS = {
   sm: "h-10 w-10",
   md: "h-14 w-14",
@@ -27,7 +29,7 @@ export default function AppAvatar({
 }: AppAvatarProps) {
   return (
     <img
-      src="/avatar.png"
+      src={asset("/avatar.png")}
       alt=""
       className={`shrink-0 bg-white object-contain object-center ${SIZE_CLASS[size]} ${RADIUS_CLASS[radius]} ${className}`}
     />

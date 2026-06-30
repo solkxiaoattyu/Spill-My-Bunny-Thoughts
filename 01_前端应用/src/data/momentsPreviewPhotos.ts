@@ -1,11 +1,13 @@
+import { asset } from "../utils/asset";
+
 export const MOMENTS_PREVIEW_PHOTOS = [
-  "/moments-preview/01.jpg",
-  "/moments-preview/02.jpg",
-  "/moments-preview/03.jpg",
-  "/moments-preview/04.jpg",
-  "/moments-preview/05.jpg",
-  "/moments-preview/06.jpg",
-  "/moments-preview/07.jpg",
-  "/moments-preview/08.jpg",
-  "/moments-preview/09.jpg",
+  asset("/moments-preview/01.jpg"),
+  asset("/moments-preview/02.jpg"),
+  asset("/moments-preview/03.jpg"),
+  asset("/moments-preview/04.jpg"),
+  asset("/moments-preview/05.jpg"),
+  asset("/moments-preview/06.jpg"),
+  asset("/moments-preview/07.jpg"),
+  asset("/moments-preview/08.jpg"),
+  asset("/moments-preview/09.jpg"),
 ] as const;

@@ -3,6 +3,7 @@ import { motion, type Variants } from "motion/react";
 import QuizModal from "./QuizModal";
 import QuizResultsModal from "./QuizResultsModal";
 import RandomPickModal from "./RandomPickModal";
+import { asset } from "../utils/asset";
 
 type ActionKey = "random" | "quiz";
 
@@ -19,7 +20,7 @@ const actions: HomeAction[] = [
   {
     label: "随机抽取",
     sub: "RANDOM",
-    icon: "/icon/select.png?v=3",
+    icon: asset("/icon/select.png?v=3"),
     action: "random",
     tint: "mint",
     hint: "随手抽一条灵感",
@@ -27,7 +28,7 @@ const actions: HomeAction[] = [
   {
     label: "标签速配",
     sub: "MATCH",
-    icon: "/icon/catch.png?v=3",
+    icon: asset("/icon/catch.png?v=3"),
     action: "quiz",
     tint: "pink",
     hint: "答几题帮你定位",

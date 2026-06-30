@@ -6,6 +6,7 @@ import PageShell from "../components/PageShell";
 import AppAvatar from "../components/AppAvatar";
 import ProfileSettingsSheet from "../components/ProfileSettingsSheet";
 import { useCorpus } from "../context/CorpusContext";
+import { asset } from "../utils/asset";
 import {
   copyTextToClipboard,
   loadBrowseHistory,
@@ -32,11 +33,11 @@ function truncateText(text: string, max = 56) {
 }
 
 const CARD_ART = {
-  match: "/profile-cards/match.png",
-  draw: "/profile-cards/draw.png",
-  favorites: "/profile-cards/favorites.png",
-  browse: "/profile-cards/browse.png",
-  copied: "/profile-cards/copied.png",
+  match: asset("/profile-cards/match.png"),
+  draw: asset("/profile-cards/draw.png"),
+  favorites: asset("/profile-cards/favorites.png"),
+  browse: asset("/profile-cards/browse.png"),
+  copied: asset("/profile-cards/copied.png"),
 } as const;
 
 export default function Profile() {

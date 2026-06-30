@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { asset } from "../utils/asset";
 
 const SHAKE_MS = 960;
 const OPEN_HOLD_MS = 520;
@@ -28,14 +29,14 @@ export default function GiftBoxShake({
     <div className="gift-shake-stage" role="status" aria-live="polite">
       <div className="gift-shake-art-wrap">
         <img
-          src="/gift-box-closed.png"
+          src={asset("/gift-box-closed.png")}
           alt=""
           className={`gift-shake-image gift-shake-image--closed ${
             phase === "shake" ? "is-active is-shaking" : ""
           }`}
         />
         <img
-          src="/gift-box-open.png"
+          src={asset("/gift-box-open.png")}
           alt=""
           className={`gift-shake-image gift-shake-image--open ${
             phase === "open" ? "is-active is-opening" : ""

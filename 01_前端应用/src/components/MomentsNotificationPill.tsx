@@ -1,3 +1,5 @@
+import { asset } from "../utils/asset";
+
 interface MomentsNotificationPillProps {
   count: number;
   onClick?: () => void;
@@ -14,7 +16,7 @@ export default function MomentsNotificationPill({
       className="moments-notice-pill"
       aria-label={`${count} notifications`}
     >
-      <img src="/moments-preview/01.jpg" alt="" className="moments-notice-pill-thumb" />
+      <img src={asset("/moments-preview/01.jpg")} alt="" className="moments-notice-pill-thumb" />
       <span>{count} notifications</span>
     </button>
   );
