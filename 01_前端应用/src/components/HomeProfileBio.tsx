@@ -6,11 +6,12 @@ interface HomeProfileBioProps {
   onMatch: (query: string) => void;
   matching?: boolean;
   error?: string | null;
+  notice?: string | null;
 }
 
 const tapSpring = { type: "spring" as const, stiffness: 500, damping: 28 };
 
-export default function HomeProfileBio({ onMatch, matching = false, error }: HomeProfileBioProps) {
+export default function HomeProfileBio({ onMatch, matching = false, error, notice }: HomeProfileBioProps) {
   const [query, setQuery] = useState("");
 
   const handleSubmit = () => {
@@ -59,6 +60,16 @@ export default function HomeProfileBio({ onMatch, matching = false, error }: Hom
           {matching ? "搜索中" : "搜索"}
         </motion.button>
       </div>
+      {notice && !error && (
+        <motion.p
+          className="mt-2 text-[12px] text-[#B8860B]"
+          initial={{ opacity: 0, y: -4 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.18 }}
+        >
+          {notice}
+        </motion.p>
+      )}
       {error && (
         <motion.p
           className="mt-2 text-[12px] text-[#E74C3C]"

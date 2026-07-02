@@ -33,6 +33,7 @@ export default function Home() {
   const [matchQuery, setMatchQuery] = useState("");
   const [matchResults, setMatchResults] = useState<MatchedCopy[]>([]);
   const [matchError, setMatchError] = useState<string | null>(null);
+  const [matchNotice, setMatchNotice] = useState<string | null>(null);
   const [refreshRemaining, setRefreshRemaining] = useState(5);
   const [matchMode, setMatchMode] = useState<"ai" | "embedding">("embedding");
 
@@ -60,14 +61,16 @@ export default function Home() {
     }
     setMatching(true);
     setMatchError(null);
+    setMatchNotice(null);
     try {
-      const { results, refreshRemaining: remaining, mode } = await matchQuotesByQuery(query);
+      const { results, refreshRemaining: remaining, mode, notice } = await matchQuotesByQuery(query);
       if (!results.length) {
         setMatchError("未找到匹配文案，试试换个描述");
         return;
       }
       setRefreshRemaining(remaining);
       setMatchMode(mode);
+      if (notice) setMatchNotice(notice);
       openMatchResults(query, results);
     } catch (error) {
       setMatchError(error instanceof Error ? error.message : "匹配失败，请稍后重试");
@@ -80,10 +83,11 @@ export default function Home() {
     if (!matchQuery || corpusStatus !== "ready") return;
     setMatching(true);
     try {
-      const { results, refreshRemaining: remaining, mode } = await refreshMatchByQuery(matchQuery);
+      const { results, refreshRemaining: remaining, mode, notice } = await refreshMatchByQuery(matchQuery);
       if (!results.length) return;
       setRefreshRemaining(remaining);
       setMatchMode(mode);
+      if (notice) setMatchNotice(notice);
       setMatchResults(results);
       localStorage.setItem(CUSTOM_MATCH_STORAGE_KEY, JSON.stringify(results));
       recordMatchHistory({
@@ -139,6 +143,7 @@ export default function Home() {
                 onMatch={handleMatch}
                 matching={matching}
                 error={matchError}
+                notice={matchNotice}
               />
             </motion.div>
 

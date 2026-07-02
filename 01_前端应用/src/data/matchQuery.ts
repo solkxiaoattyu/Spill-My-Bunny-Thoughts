@@ -9,7 +9,6 @@ import {
 import { selectRefreshBatch } from "../services/chatchat/matchSelect";
 import {
   commitMatchBatch,
-  createMatchRefreshSession,
   getRefreshRemaining,
   loadMatchRefreshSession,
   MATCH_BATCH_SIZE,
@@ -17,10 +16,6 @@ import {
   saveMatchRefreshSession,
 } from "../services/chatchat/matchSession";
 import { isAiConfigured, loadAiConfig, resolveApiConfig } from "./aiConfig";
-import {
-  isFinalWeekCollapseQuery,
-  resolveFinalWeekCollapseCopies,
-} from "./queryEasterEggs";
 
 export interface MatchedCopy {
   id: string;
@@ -32,6 +27,8 @@ export interface MatchQueryResult {
   results: MatchedCopy[];
   refreshRemaining: number;
   mode: "ai" | "embedding";
+  /** AI 不可用时降级本地匹配时的提示（非错误） */
+  notice?: string;
 }
 
 export const CUSTOM_QUERY_KEY = "custom-match-query";
@@ -70,15 +67,34 @@ function toMatchedCopy(copy: { id: number; text: string; matchPercent?: number }
   };
 }
 
-async function rankForQuery(query: string, excludeIds: number[]) {
+const AI_BUSY_NOTICE = "AI 服务繁忙，已切换为本地智能匹配";
+
+async function rankForQuery(
+  query: string,
+  excludeIds: number[],
+): Promise<{ ranked: ReturnType<typeof rankMatchesTwoStage>; mode: "ai" | "embedding"; notice?: string }> {
   const corpus = getCorpus();
-  if (isAiConfigured()) {
-    const filters = await parseUserIntent(query, resolveApiConfig(loadAiConfig()));
-    return rankMatchesTwoStage(corpus, filters, query, excludeIds);
-  }
   const index = await loadCorpusIndex();
   const localFilters = parseUserIntentLocal(query);
-  return rankMatchesByEmbedding(corpus, query, index, excludeIds, localFilters.avoid);
+
+  if (isAiConfigured()) {
+    try {
+      const filters = await parseUserIntent(query, resolveApiConfig(loadAiConfig()));
+      return { ranked: rankMatchesTwoStage(corpus, filters, query, excludeIds), mode: "ai" };
+    } catch (error) {
+      console.warn("[match] AI intent parse failed, falling back to local matching", error);
+      return {
+        ranked: rankMatchesTwoStage(corpus, localFilters, query, excludeIds),
+        mode: "embedding",
+        notice: AI_BUSY_NOTICE,
+      };
+    }
+  }
+
+  return {
+    ranked: rankMatchesByEmbedding(corpus, query, index, excludeIds, localFilters.avoid),
+    mode: "embedding",
+  };
 }
 
 async function runQueryMatch(query: string, isRefresh: boolean): Promise<MatchQueryResult> {
@@ -88,36 +104,13 @@ async function runQueryMatch(query: string, isRefresh: boolean): Promise<MatchQu
   const trimmed = query.trim();
   if (!trimmed) return { results: [], refreshRemaining: 0, mode: "embedding" };
 
-  const mode = isAiConfigured() ? "ai" : "embedding";
   let session = loadMatchRefreshSession(QUERY_MATCH_SESSION_KEY, trimmed);
 
   if (isRefresh && session.refreshCount >= 5) {
     session = { sessionKey: trimmed, shownIds: [], refreshCount: 0, baselineScore: undefined };
   }
 
-  if (!isRefresh && isFinalWeekCollapseQuery(trimmed)) {
-    const preset = resolveFinalWeekCollapseCopies(corpus);
-    if (preset.length === 3) {
-      session = createMatchRefreshSession(trimmed);
-      const results = preset.map((copy, index) =>
-        toMatchedCopy({
-          id: copy.id,
-          text: copy.text,
-          matchPercent: Math.max(97 - index * 2, 91),
-        }),
-      );
-      const newIds = preset.map((copy) => copy.id);
-      session = commitMatchBatch(session, newIds, false, 1);
-      saveMatchRefreshSession(QUERY_MATCH_SESSION_KEY, session);
-      return {
-        results,
-        refreshRemaining: getRefreshRemaining(session),
-        mode,
-      };
-    }
-  }
-
-  const ranked = await rankForQuery(trimmed, session.shownIds);
+  const { ranked, mode, notice } = await rankForQuery(trimmed, session.shownIds);
   const batch = selectRefreshBatch(
     ranked,
     MATCH_BATCH_SIZE,
@@ -136,6 +129,7 @@ async function runQueryMatch(query: string, isRefresh: boolean): Promise<MatchQu
     results,
     refreshRemaining: getRefreshRemaining(session),
     mode,
+    ...(notice ? { notice } : {}),
   };
 }
 
